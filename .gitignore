@@ -1,0 +1,15 @@
+# Deepak Aggarwal, deepak@codingblocks.com
+
+# ignore files without extension
+*
+!/**/
+!*.*
+
+# ignore cpp files
+*.gch
+*.exe
+*.o
+*.out
+test.cpp
+in*
+out*
